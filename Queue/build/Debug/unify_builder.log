@@ -1,0 +1,42 @@
+[2025-12-10 20:18:04]	[info] incremental build: 35 source files changed
+These source files will be recompiled
+---
+'d:\workplace\Queue\Core\Src\freertos.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\gpio.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\main.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\stm32f1xx_hal_msp.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\stm32f1xx_hal_timebase_tim.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\stm32f1xx_it.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\syscalls.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\sysmem.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\system_stm32f1xx.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Src\usart.c': object (.o) file not exist
+'d:\workplace\Queue\Core\Startup\startup_stm32f103c8tx.s': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c': object (.o) file not exist
+'d:\workplace\Queue\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2\cmsis_os2.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\croutine.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\list.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM3\port.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\queue.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\tasks.c': object (.o) file not exist
+'d:\workplace\Queue\Middlewares\Third_Party\FreeRTOS\Source\timers.c': object (.o) file not exist
+
+[2025-12-10 20:18:04]	[done]
+	build successfully !
+
